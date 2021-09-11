@@ -1,1 +1,3 @@
 # power-bi-workshop
+
+[link](https://app.powerbi.com/view?r=eyJrIjoiZjFhZTE3MzQtYjFlZS00MDU3LTgxNjEtY2Q4NmExMWFkYjQ1IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
